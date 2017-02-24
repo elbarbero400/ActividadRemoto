@@ -14,4 +14,7 @@ public class NuevaClase {
     public NuevaClase(){
         a=7;
     }
+    public void modificacionActividadUNO(){
+        
+    }
 }
